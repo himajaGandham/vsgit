@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    class Class1
+
+
+
     {
-        static void Main(string[] args)
+
+        public void add()
         {
 
-            Console.WriteLine("Hello This is the first Program");
-            Console.ReadLine();
+            Console.WriteLine("This is my first class");
         }
     }
 }
