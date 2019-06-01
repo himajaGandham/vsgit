@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello This is the first Program master edit test master");
+            Console.WriteLine("Hello This is the first Program master edit test master1");
             Console.ReadLine();
         }
     }
